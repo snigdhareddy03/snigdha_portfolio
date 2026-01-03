@@ -1,1 +1,1 @@
-# snigdha_protfolio
+# snigdha_portfolio
