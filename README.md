@@ -1,43 +1,29 @@
-# 📊 Data Analyst Portfolio – [Your Name]
+# Pabbathi Snigdha Reddy – [Aspiring Data Analyst]
 
 Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
 ---
 
-## 👤 Profile Summary
+## Profile Summary
 
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
-
----
-
-## 🧠 Skills
-
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
+- Detail-oriented Junior Data Analyst with strong skills in **data cleaning**, **analysis**, **visualization**, and **reporting**.
+-  Proficient in **Excel**, **Google Sheets**, **SQL**, and **Power BI**, with hands-on experience through academic & project work.
+- Adept at **identifying trends**, **preparing dashboards**, and **supporting data driven decision making**.
+- Quick learner with strong analytical thinking and communication skills.
 
 ---
 
-## 💼 Professional Experience
+## Skills
 
-**[Company Name], [Location] — [Position]**  
-*Time Period*
-
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+**Languages:** Python, SQL  
+**Tools & Visualization:** Excel, Power BI, Tableau, Google Sheets, Jupyter Notebook  
+**Databases:** MySQL 
 
 ---
 
-## 📈 Featured Project
+## Featured Project
 
-### 🔍 LinkedIn Job Trends Analyzer  
+### LinkedIn Job Trends Analyzer  
 *Time Period*
 
 - Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
@@ -45,35 +31,30 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
 
 ![LinkedIn Dashboard](/images/image1.png)
----
-
-## 🎓 Education
-
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
 
 ---
 
-## 📜 Certifications & Awards
+##  Education
 
-- Google Associate Data Practitioner Certificate  
-- Best Student Award – Classification of Healthcare Documents  
-- 4th Place – Data Analytics Hackathon (University-level)
-
----
-
-## ❤️ Volunteer Experience
-
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
+- Bachelor of Technology [CSE]| Guru Nanak Institutions Technical Campus | September 2023 – April 2026 | GPA: 8.6
+- Diploma [EIE] | Dr BR Ambedkar GMR Polytechnic for women | August 2020 – May 2023 | GPA: 9.3
 
 ---
 
-## 📬 Let’s Connect!
+## Certifications & Awards
 
-- 📧 Email: [Your Email]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
+- Python Course Certification by geeksforgeeks. 
+- NPTEL- Python for Data Science. 
+- Power BI Micro Course.
+
+---
+
+
+##  Let’s Connect!
+
+-  Email: [snigdhasathishreddy@gmail.com]  
+-  LinkedIn: [[LinkedIn Profile](https://github.com/snigdhareddy03)]  
+-  GitHub: [[GitHub Portfolio](https://www.linkedin.com/in/snigdha-reddy-a1a2882a6)]
 
 ---
 
