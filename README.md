@@ -82,8 +82,8 @@ To begin my career as a **Data Analyst**, where I can apply my analytical skills
 ##  Let’s Connect!
 
 -  Email: [snigdhasathishreddy@gmail.com]  
--  LinkedIn: [[LinkedIn Profile](https://github.com/snigdhareddy03)]  
--  GitHub: [[GitHub Portfolio](https://www.linkedin.com/in/snigdha-reddy-a1a2882a6)]
+-  LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/snigdha-reddy-a1a2882a6)]  
+-  GitHub: [[GitHub Portfolio](https://github.com/snigdhareddy03)]
 
 ---
 
