@@ -52,6 +52,8 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/Employee_data_analysis)*
 ![Power BI Dashboard](Image/Screenshot (67).png)
 - India 🇮🇳 vs New Zealand 🇳🇿 quick scorecard of Employee data
+
+  
 ---
 
 
