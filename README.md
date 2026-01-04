@@ -36,12 +36,11 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
  Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/restaurant-order-analysis-sql)*
 
-![LinkedIn Dashboard](/images/image1.png)
 
 ---
 
 ### 👩‍💼 Employee Data Analysis  
-**Tech Stack:** Power BI, Excel  
+**Tech Stack:** Power BI  
 
 - Designed interactive dashboards to analyze:
   - Employee performance  
@@ -51,7 +50,8 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Presented insights in a clear, business-friendly format
 
 Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/Employee_data_analysis)*
-
+![Power BI Dashboard](Image/Screenshot (67).png)
+- India 🇮🇳 vs New Zealand 🇳🇿 quick scorecard of Employee data
 ---
 
 
