@@ -1,24 +1,25 @@
-# Aspiring Data Analyst
+# Elixir & Phoenix Developer Portfolio
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
-
+- Welcome to my developer portfolio! I specialize in building backend applications, REST APIs, and database-driven solutions using Elixir, Phoenix Framework, PostgreSQL, Ecto, and Python. I enjoy solving problems, writing maintainable code, and continuously learning modern backend engineering practices.
 ---
 
 ## Profile Summary
 
-- Detail-oriented Junior Data Analyst with strong skills in **data cleaning**, **analysis**, **visualization**, and **reporting**.
--  Proficient in **Excel**, **Google Sheets**, **SQL**, and **Power BI**, with hands-on experience through academic & project work.
-- Adept at **identifying trends**, **preparing dashboards**, and **supporting data driven decision making**.
-- Quick learner with strong analytical thinking and communication skills.
-- Interested in **entry-level Data Analyst / Business Analyst / BI roles**
-
+- Computer Science graduate with hands-on experience in Elixir and Phoenix backend development.
+- Currently working as an Elixir Developer Intern at GeekBull Consulting.
+- Experienced in REST APIs, database schemas, validations, CRUD operations, and PostgreSQL queries using Ecto.
+- Developed a task management application using Elixir, Phoenix, and PostgreSQL.
+- Familiar with Python, Git, GitHub, Postman, and relational database concepts.
+- Interested in backend engineering, real-time web applications, software reliability, and cybersecurity.
 ---
 
 ## Skills
 
-**Languages:** Python, SQL  
-**Tools & Visualization:** Excel, Power BI, Tableau, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL 
+**Programming Languages:** Elixir, Python, SQL  
+**Backend Development:** Phoenix Framework, REST APIs, CURD operations, Ecto
+**Databases:** MySQL,PostgresSQL
+**Developer Tools:** Git, GitHub, Postman
+
 
 ---
 
