@@ -10,20 +10,34 @@
 - Experienced in REST APIs, database schemas, validations, CRUD operations, and PostgreSQL queries using Ecto.
 - Developed a task management application using Elixir, Phoenix, and PostgreSQL.
 - Familiar with Python, Git, GitHub, Postman, and relational database concepts.
-- Interested in backend engineering, real-time web applications, software reliability, and cybersecurity.
+
 ---
 
 ## Skills
 
 **Programming Languages:** Elixir, Python, SQL  
 **Backend Development:** Phoenix Framework, REST APIs, CURD operations, Ecto
-**Databases:** MySQL,PostgresSQL
+**Databases:** MySQL, PostgresSQL
 **Developer Tools:** Git, GitHub, Postman
 
 
 ---
+## Professional Experience
+### Elixir Developer Inter - GeekBull Consulting
+**Project:** Vyaasa-AI Powered Recruitment Platform
+Contributing to backend development for a recruitment platform using Elixir, Phoenix Framework, PostgreSQL, Ecto, and REST APIs.
 
-## Featured Project
+### Key Contributions
+- Worked on backend functionality for job and candidate management.
+- Contributed to database schemas, validations, CRUD operations, and API endpoints.
+- Worked on candidate-screening workflows involving resume analysis and matching candidate skills with job requirements.
+- Worked with relational database operations and application data models.
+- Contributed to maintainable backend functionality for a data-driven application.
+### Technologies: 
+Elixir, Phoenix Framework, PostgreSQL, Ecto, REST APIs, Git
+---
+
+## Projects
 
 ###  Restaurant Order Analysis  
 **Tech Stack:** SQL, MySQL  
@@ -77,7 +91,9 @@ Dr. B.R Ambedkar GMR Polytechnic for Women, Karimnagar | 2020 – 2023 | CGPA: 9
 
 ##  Career Objective
 
-To begin my career as a **Data Analyst**, where I can apply my analytical skills, work with real-world datasets, and contribute to data-driven business decisions while continuously learning and growing.
+To build my career as an Elixir/Phoenix Developer, contributing to reliable backend systems, REST APIs, and database-driven applications while improving my skills in real-time application development, software testing, and secure software engineering.
+
+I am particularly interested in opportunities involving Elixir, Phoenix, PostgreSQL, backend APIs, and real-time application development.
 
 ---
 
@@ -91,4 +107,4 @@ To begin my career as a **Data Analyst**, where I can apply my analytical skills
 ---
 
 Thank you for visiting my portfolio!  
-Feel free to explore my repositories or connect with me for **internships, entry-level roles, or collaborations**.
+Feel free to explore my repositories or connect with me for Elixir/Phoenix development opportunities, backend engineering roles, and collaborations.
