@@ -33,40 +33,42 @@ Contributing to backend development for a recruitment platform using Elixir, Pho
 - Worked on candidate-screening workflows involving resume analysis and matching candidate skills with job requirements.
 - Worked with relational database operations and application data models.
 - Contributed to maintainable backend functionality for a data-driven application.
-### Technologies: 
-Elixir, Phoenix Framework, PostgreSQL, Ecto, REST APIs, Git
+### Technologies 
+- Elixir, Phoenix Framework, PostgreSQL, Ecto, REST APIs, Git
 ---
 
 ## Projects
 
-###  Restaurant Order Analysis  
-**Tech Stack:** SQL, MySQL  
+###  Task Board Application
+**Tech Stack:** Elixir, Phoenix Framework, PostgreSQL, Ecto, REST APIs
 
-- Performed data analysis using **joins, aggregations, and window functions**
-- Identified:
-  - Top-spending orders  
-  - Most and least ordered items  
-  - Category-wise purchase trends  
-- Generated insights to support **menu optimization and customer behavior analysis**
+- Developed a task management application to organize and manage tasks through backend APIs and relational database operations.
+- Key Features and Contributions:
+  - Implemented task creation, updating, deletion, filtering, and management functionality.
+  - Developed REST APIs to support task-related operations.
+  - Used Ecto schemas and migrations to manage database structure and application data.
+  - Implemented validations and database associations.
+  - Worked with PostgreSQL queries and relational data management.
+  - Used Git for source control and project development.
+
 
  Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/restaurant-order-analysis-sql)*
 
 
 ---
 
-###  Employee Data Analysis  
-**Tech Stack:** Power BI  
+### Spam Detection Using Machine Learning 
+**Tech Stack:** Python, Navie Bayes, Streamlit
+- Developed a machine learning application to classify messages as spam or non-spam using a Naive Bayes model.
 
-- Designed interactive dashboards to analyze:
-  - Employee performance  
-  - Salary distribution  
-  - Department-wise analytics  
-- Used **DAX formulas, filters, drill-downs, and data modeling**
-- Presented insights in a clear, business-friendly format
+- Key Features and Contributions:
+  - Developed a Naive Bayes spam classification model with a reported accuracy of 95%.
+  - Applied text preprocessing, tokenization, and feature extraction.
+  - Built an interactive Streamlit interface for spam prediction.
+  - Evaluated the model using its classification results.
 
-Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/Employee_data_analysis)*
-![Power BI Dashboard](Image/Screenshot (67).png)
-- India 🇮🇳 vs New Zealand 🇳🇿 quick scorecard of Employee data
+Repository: *[Available in this GitHub profile](https://github.com/snigdhareddy03/Spam_detection)*
+
 
   
 ---
